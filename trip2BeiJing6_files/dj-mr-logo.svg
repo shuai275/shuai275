@@ -1,0 +1,31 @@
+<svg width="223.70000000000002" height="43" xmlns="http://www.w3.org/2000/svg" version="1.1" xml:space="preserve">
+ <defs>
+  <linearGradient id="SVGID_1_" x1="0.00259" y1="0.5" x2="0.99975" y2="0.5">
+   <stop offset="0" stop-color="#02B3FD"/>
+   <stop offset="1" stop-color="#1C19F1"/>
+  </linearGradient>
+  <linearGradient spreadMethod="pad" y2="0" x2="1" y1="0" x1="0" id="svg_39">
+   <stop stop-opacity="0.99219" offset="0" stop-color="#1652f7"/>
+   <stop stop-opacity="0.98828" offset="1" stop-color="#25a6f7"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_1">
+   <g id="svg_2">
+    <path class="st0" d="m27.5,2.7l18.6,32.3c1.5,2.6 -0.4,5.9 -3.4,5.9l-37.3,0c-3,0 -4.9,-3.3 -3.4,-5.9l18.7,-32.3c1.5,-2.6 5.3,-2.6 6.8,0z" fill="#1C19F1" id="svg_3"/>
+   </g>
+   <g id="svg_4">
+    <path class="st1" d="m48.3,2.7l18.7,32.3c1.5,2.6 -0.4,5.9 -3.4,5.9l-37.3,0c-3,0 -4.9,-3.3 -3.4,-5.9l18.6,-32.3c1.5,-2.6 5.3,-2.6 6.8,0z" fill="#02B3FD" id="svg_5"/>
+   </g>
+   <g id="svg_6">
+    <g id="svg_7">
+     <path class="st2" d="m45.6,34.2l-11.1,-19.2l-11.1,19.2c-1.8,3.1 0.4,6.9 4,6.9l14.2,0c3.5,-0.1 5.7,-3.9 4,-6.9z" fill="url(#SVGID_1_)" id="svg_8"/>
+    </g>
+   </g>
+  </g>
+  <text fill="#000000" x="85.82857" y="32.21428" id="svg_11" stroke-width="0" font-size="24" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve"/>
+  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="32" id="svg_12" y="39.10315" x="80.76098" stroke-width="0" fill="url(#svg_39)"></text>
+  <line id="svg_13" y2="11.99019" x2="88.73823" y1="18.2647" x1="65.20882" fill="none"/>
+ </g>
+</svg>
