@@ -1,0 +1,85 @@
+﻿* { margin: 0; padding: 0; }
+body { padding: 0; margin: 0; background-color: #fff; font-family: Microsoft YaHei; }
+.clear { clear: both; }
+.main { position: relative; max-width: 640px; height: auto; margin: 0 auto; overflow: hidden; background-color: #1fc5cf; }
+.cityhide { width: 100%; height: auto; }
+.cityhide img { max-width: 100%; }
+.tb { background: url(../images/mbg.jpg) repeat-x; background-size: 100% 100%; width: auto; height: auto; }
+.top { width: 100%; height: auto; position: relative; }
+.top .lf { height: 56px; line-height: 56px; float: left; margin-left: 10px; }
+.top .lf img { max-height: 52px; }
+.top .search { width: auto; height: 30px; line-height: 30px; color: #d1eeef; padding: 0px 20px 0px 40px; background: url(../images/s.png) no-repeat left; background-position-x: 10px; border-radius: 15px; background-color: #4ea7af; float: left; margin-top: 15px; }
+.top .rf { height: 58px; line-height: 58px; float: right; margin-right: 10px; }
+.top .rf img { max-height: 32px; border-radius: 3px; }
+.top .adimg { width: auto; margin: 0px 5px; border-radius: 20px; text-align: center; }
+.top .adimg img { max-width: 100%; border-radius: 20px; min-width: 100%; }
+.top .tmc { position: absolute; height: auto; width: auto; margin: 0px 5px; border-bottom-left-radius: 20px; border-bottom-right-radius: 20px; left: 0px; bottom: 0px; background-color: #000; background-color: rgba(0,0,0,0.5); }
+.top .tmc p { color: #fff; padding: 10px 20px; width: auto; font-size: 16px; line-height: 24px; max-height: 42px; overflow: hidden; }
+.top .user { position: absolute; left: 3px; top: 70px; }
+.top .user .photo { width: 50px; height: 50px; text-align: center; margin-left: 15px; }
+.top .user .photo img { border-radius: 50%; width: 50px; height: 50px; }
+.top .user .info { overflow: hidden; line-height: 20px; color: #fff; font-size: 16px; margin: 8px 0px 0px 20px; }
+.item { margin: 0px 0px 12px 0px; padding: 10px 0px; width: auto; height: auto; background-color: #fff; box-shadow: 0px 7px 7px -7px #cbcbcb; }
+.navbg { width: auto; margin: 0px 8px; }
+.navbg .nav { width: 20%; float: left; text-align: center; font-size: 14px; padding-bottom: 8px; }
+.navbg .nav img { max-width: 38px; margin-bottom: 3px; }
+.cxinfobg { margin: 5px 8px 20px 8px; padding: 5px 0px; background-color: #f7f7f7; width: auto; height: auto; }
+.cxinfobg .cxinfo { width: 100%; height: 30px; color: #555; overflow: hidden; }
+.cxinfobg .cxinfo .cxtype { float: left; height: 30px; line-height: 28px; max-width: 18%; overflow: hidden; margin-left: 15px; }
+.cxinfobg .cxinfo .cxtype img { max-width: 20px; vertical-align: middle; }
+.cxinfobg .cxinfo .cxtext { float: left; width: auto; height: 30px; line-height: 28px; max-width: 30%; overflow: hidden; }
+.youjitb { margin:8px; color: #333; width: auto; height: auto; }
+.youjitb .youjicontent { width: 100%; font-size: 16px; line-height: 1.5; height: auto; overflow: hidden; }
+.youjitb .youjicontent .weixincode { max-width: 220px; display: block; margin: 0 auto; }
+.youjitb .youjicontent img { max-width: 100%;width: 680px;}
+.replytb { margin: 16px 8px; color: #333; width: auto; height: auto; }
+.reply { width: 100%; height: auto; position: relative; }
+.reply .tag { position: absolute; right: -10px; top: -30px; transform: rotate(30deg); width: 100px; height: 100px; text-align: center; line-height: 100px; font-size: 16px; color: #26abb0; background: url(../images/tag.png); background-size: 100% 100%; }
+.reply .repUser { width: 100%; height: 50px; }
+.reply .repUser img { width: 40px; height: 40px; border-radius: 50%; float: left; vertical-align: middle; margin-right: 6px; }
+.reply .repUser .text { float: left; line-height: 20px; margin-left: 10px; }
+.reply .repUser .text .t1 { font-weight: bold; }
+.reply .repUser .text .t2 { color: #b5b5b5; }
+.reply .repUser .text .bestrep { background: url(../images/best.png) no-repeat left; background-size: contain; padding-left: 20px; height: 40px; line-height: 20px; color: #ffa800; margin-left: 10px; }
+.reply .content { width: 100%; height: auto; overflow: hidden; font-size: 16px; color: #333; line-height: 30px; }
+.reply .content p { font-size: 16px; line-height: 30px; }
+.reply .content p img { max-width: 100%; }
+.reply .content .weixincode { max-width: 220px; display: block; margin: 0 auto; }
+.reply .discuss { width: auto; height: 30px; line-height: 30px; margin: 10px 0px 8px 20px; font-size: 16px; }
+.reply .discuss .t { color: #333; }
+.reply .discusstb { background-color: #fafafa; border: solid 1px #ededed; border-bottom-width: 1px; padding: 0px 15px; margin-bottom: 50px; }
+.reply .discusstb .discussitem { border-bottom: solid 1px #ededed; width: 100%; padding: 20px 0px; }
+.reply .discusstb .discussitem .discussuser { width: 100%; height: 50px; border-radius: 25px; }
+.reply .discusstb .discussitem .discussuser img { width: 40px; height: 40px; border-radius: 50%; vertical-align: middle; margin-right: 6px; }
+.reply .discusstb .discussitem .discussuser .name { font-weight: bold; }
+.reply .discusstb .discussitem .discusscont { font-size: 14px; width: 100%; height: auto; overflow: hidden; }
+.reply .discusstb .discussitem .discusscont .text { color: #444; line-height: 24px; }
+.reply .discusstb .discussitem .discusscont .text p { font-size: 14px; line-height: 24px; }
+.reply .discusstb .discussitem .discusscont .text p img { max-width: 100%; }
+.reply .discusstb .discussitem .discusscont .text .weixincode { max-width: 220px; display: block; margin: 0 auto; }
+.reply .discusstb .discussitem .discusscont .time { color: #888; }
+.foot { width: 100%; text-align: center; padding: 20px 0px 10px 0px; height: auto; color: #868686; background-color: #34343c; }
+.foot img { margin-top: 10px; max-height: 50px; }
+.footfixed { position: fixed; left: 0px; bottom: 0px; width: 100%; height: 42px; background-color: #51ced1; z-index: 9999; }
+.footfixed .openbtn { margin: 0px auto; height: 42px; line-height: 42px; text-align: center; color: #fff; font-size: 20px; }
+.footfixed .openbtn img { max-height: 26px; }
+.openlay { background: transparent; background: rgba(0,0,0,0.7); border-radius: 8px; position: fixed; margin: auto; height: 100%; width: 100%; left: 0; right: 0; top: 0; bottom: 0; z-index: 1; }
+.openlay .toast { position: relative; width: 270px; height: 621px; overflow: hidden; text-align: center; margin: -20px auto 0px auto; background: url(../images/a01.png) no-repeat center; background-position: center 90px; background-size: contain; }
+.openlay .toast .photobg { position: absolute; z-index: 10; top: 100px; left: 60px; background: url(../images/01.png) no-repeat center; width: 150px; height: 170px; background-size: 100% 100%; }
+.openlay .toast .photo { width: 125px; height: 125px; position: absolute; left: 70px; top: 130px; }
+.openlay .toast .photo img { width: 125px; height: 125px; border-radius: 50%; border: 2px solid #fff; }
+.openlay .toast .name { width: 100%; height: 30px; padding-top: 290px; text-align: center; color: #440000; font-size: 18px; }
+.openlay .toast .addbtn { width: 180px; height: 38px; border-radius: 19px; margin: 20px auto; line-height: 38px; font-size: 18px; margin-top: 5px; text-align: center; color: #fff; background-color: #fc7016; cursor: pointer; }
+.openlay .toast .LineKefu { width: 100%; text-align: center; margin-top: 38px; color: #440000; font-size: 18px; }
+.openlay .toast .close { width: 100%; height: 50px; margin-top: 40px; cursor: pointer; }
+.openlay .copyok { width: 270px; height: 531px; overflow: hidden; text-align: center; margin: 180px auto 0px auto; background: url(../images/a02.png) no-repeat center; background-position: center top; background-size: contain; }
+.openlay .copyok .tip { color: #440000; font-size: 22px; padding: 80px 0px 20px 0px; }
+.openlay .copyok .okbtn { width: 180px; height: 32px; border-radius: 16px; margin: 0px auto; line-height: 32px; font-size: 16px; margin-top: 5px; text-align: center; color: #fff; background-color: #fc7016; cursor: pointer; }
+.openlay .copyok .text { font-size: 12px; margin-top: 15px; text-align: center; }
+.wei_xin { cursor: pointer; }
+#tk { position: fixed; z-index: 99; transition: all 0.5s; border-radius: 18px; margin: auto; left: 0; right: 0; bottom: -250px; overflow: hidden; background: #F9F9F9; width: 90%; }
+#tk div { width: 100%; height: 56px; border-bottom: 1px solid #D1D1D3; text-align: center; font-size: 18px; font-family: 微软雅黑; line-height: 56px; color: #0876FB; }
+#tk div:hover { background: #eee; }
+#tk a:last-child div { border-bottom: none !important; }
+#closetk { position: fixed; transition: all 0.5s; z-index: 99; width: 90%; height: 56px; text-align: center; margin: auto; left: 0; right: 0; bottom: -300px; font-size: 18px; font-family: 微软雅黑; font-weight: bold; line-height: 56px; background: #fff; color: #0876FB; border-radius: 15px; cursor: pointer; }
+#tck { position: fixed; top: 0px; left: 0px; z-index: 90; width: 100%; height: 100%; background: rgba(0,0,0,0.4); transition: all 0.8s; }

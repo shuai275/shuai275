@@ -3,23 +3,23 @@
 来北京那么多次，还没发现哪個城市可以像北京一样，云集那么多重磅古建筑，又那么有文艺氛围。很适合拿出幾天时间来慢慢逛。
 
 北京的一年四季都很适合旅行，每个季节都有其独特的魅力和特色。
-![这是图片](/trip2beijing3_files/beijing.jpeg "Magic Gardens")
+![这是图片](/trip2beijing_files/beijing.jpeg "Magic Gardens")
 
 景點推薦⬇️
 📍天安門：來北京必去的一定是天安門，天安門城樓上掛有毛主席的畫像，每一個來到天安門的人都會站在金水橋上拍照留念吧📷
-![这是图片](/trip2beijing3_files/tiananmen3.jpeg "Magic Gardens")
+![这是图片](/trip2beijing_files/tiananmen3.jpeg "Magic Gardens")
 📍故宮博物院：故宮又稱為“紫禁城”，逛故宮也是一個精力和體力的考驗。除了重要的宮殿，還有一些展館，還可以買一本紀念冊，在故宮裡蓋章留作紀念。
-![这是图片](/trip2beijing3_files/gugong.jpeg "Magic Gardens")
+![这是图片](/trip2beijing_files/gugong.jpeg "Magic Gardens")
 📍景山公園：山不是很高，爬到最頂端快的話也用不了半個小時，上去之後東西南北都可以觀看到不同的景色，還可以俯瞰故宮，非常壯觀。
-![这是图片](/trip2beijing3_files/gugong2.jpeg "Magic Gardens")
+![这是图片](/trip2beijing_files/gugong2.jpeg "Magic Gardens")
 📍鼓樓、什剎海：兩個地方離得不遠，有時間可以去逛一下，坐一次107路公交車🚌聽著趙雷的鼓樓，非常的惬意，夜晚的什剎海也很好看，可以溜溜哒哒，那裡有很多小酒吧。
-![这是图片](/trip2beijing3_files/gulou2.jpeg "Magic Gardens")
+![这是图片](/trip2beijing_files/gulou2.jpeg "Magic Gardens")
 📍慕田峪長城：除了八達嶺長城，慕田峪長城也是一個不錯的選擇，有句話說的好“不到長城非好漢”有機會一定要爬一次萬里長城，感受長城的雄偉壯闊。
-![这是图片](/trip2beijing3_files/changcheng.jpeg "Magic Gardens")
+![这是图片](/trip2beijing_files/changcheng.jpeg "Magic Gardens")
 ·
 🍹美食
 北京的美食還是有很多的，比如老北京銅鍋涮肉、北京烤鴨、老北京炸醬面、鹵煮、豆汁、老北京驢打滾還有稻香村糕點，都是比較有特色的。
-![这是图片](/trip2beijing3_files/food.jpeg "Magic Gardens")
+![这是图片](/trip2beijing_files/food.jpeg "Magic Gardens")
 ·
 🌈旅遊建議
 🚗自由行：如果只玩兩三天的話可以自由行的，挑幾個想去的景點即可，不過記得要提前做好攻略噢~
@@ -41,7 +41,7 @@
 
 👨🏻👩🏻想去的朋友建議先加的個人微信咨詢一下，即便昰計劃自己玩的夥伴，也可以先加上、跟聊聊天咨詢咨詢，像景區 2024 最新的預約購票政策、快速排隊技巧、天氣變化情況、注意事項都昰免費咨詢的~
 加微信好友咨詢⬇️（微信：wlwl09188）：
-<img src="/trip2beijing3_files/WechatIMG73.jpg" width = "300" align=center alt="图片名称"/>
+<img src="/trip2beijing_files/WechatIMG73.jpg" width = "300" align=center alt="图片名称"/>
 
 
 📢注意事項
